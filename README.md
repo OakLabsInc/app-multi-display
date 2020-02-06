@@ -1,4 +1,4 @@
-# app-multi-window
+# app-multi-display
 
 This is an example of how to implement multiple displays for OakOS using a two displays with multiple applications installed
 
